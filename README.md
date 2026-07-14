@@ -1,5 +1,18 @@
 # 📊 Amazon Sales SQL Analysis
 
+## 📑 Table of Contents
+
+- Project Overview
+- Dataset
+- Project Workflow
+- Data Cleaning
+- Data Quality Checks
+- Business Analysis
+- Advanced SQL
+- Window Functions
+- Key Insights
+- Screenshots
+
 ## 🚀 Project Overview
 
 This project is an end-to-end SQL analysis of an Amazon Sales dataset containing over **128,000+ sales records**. The objective is to demonstrate practical SQL skills by performing data cleaning, data quality checks, exploratory analysis, business reporting, and advanced SQL analytics.
