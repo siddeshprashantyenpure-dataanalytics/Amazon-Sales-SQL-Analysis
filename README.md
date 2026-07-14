@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://www.pangolinfo.com/wp-content/uploads/2024/10/a-visually-engaging-design-representing-amazon-dat-hl5Y2SsGTY-EoZ9ctrcg0A-g5qCDIp2QZimdnWNEd1awg-768x512.jpeg" alt="Amazon Sales SQL Analysis Banner" width="100%">
 </p>
+
 ## 📑 Table of Contents
 
 - Project Overview
